@@ -1,4 +1,4 @@
-# Enhanced Remote File Uploader
+#  Remote File Uploader
 
 ![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
