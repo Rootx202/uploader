@@ -1,5 +1,5 @@
 """
-Enhanced Main Application Entry Point
+Main Application Entry Point
 Features:
 - Secure password migration on startup
 - Better error handling
